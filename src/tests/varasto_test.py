@@ -82,6 +82,7 @@ class TestVarasto(unittest.TestCase):
         
     def test_tulosta_tiedot(self):
     	print(self.varasto)
+        print(self.varasto)
         
         
         
